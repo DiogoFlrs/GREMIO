@@ -1,0 +1,75 @@
+.container {
+    max-width: 1100px;
+    background-color: #ddd;
+    padding: 50px;
+    margin: 100px auto;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+    width: auto;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.lists {
+    border: 1px dashed black;
+    text-align: center;
+
+}
+
+h2 {
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.minhaslistas {
+    font-family: serif;
+    width: auto;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.learn-more {
+    background-color: rgb(47, 185, 185);
+    font-family: Helvetica;
+    margin: 55px;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+hr {
+    border: 1px dashed blue;
+    padding: 25px auto;
+    margin: 25px;
+}
+
+.paragraphy {
+    background-color: rgba(24, 0, 255, 0.1);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+   
+  
+}
+
